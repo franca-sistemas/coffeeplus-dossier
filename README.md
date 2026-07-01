@@ -1,6 +1,6 @@
 # ☕ Registro Público de Inmutabilidad y Autoría - Blog de Café
 
-Este repositorio funciona exclusivamente como una **fuente de verdad pública y un notario digital** para los artículos publicados en nuestro sitio web coffeeplus.com.ar/dossier 
+Este repositorio funciona exclusivamente como una **fuente de verdad pública y un notario digital** para los artículos publicados en el sitio web coffeeplus.com.ar/dossier 
 
 El objetivo de este espacio es transparentar la integridad, la autoría y la fecha exacta de publicación de cada obra mediante la "tokenización" y el firmado criptográfico provisto por la infraestructura de Git.
 
